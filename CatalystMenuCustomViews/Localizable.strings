@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  CatalystMenuCustomViews
+
+  Created by Steven Troughton-Smith on 26/11/2022.
+  
+*/
+
+"BUTTON_MENU" = "Options…";
+"MENU_OPTIONS" = "Options";
+"MENU_STYLE" = "Style";
+"MENU_COLORLABEL_TEMPLATE" = "Color";
